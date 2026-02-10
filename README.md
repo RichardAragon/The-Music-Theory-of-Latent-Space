@@ -2,6 +2,7 @@
 
 ### A Formal Framework for Understanding Neural Computation as Resonance
 
+## Colab Notebook: https://colab.research.google.com/drive/18OzEc4KkN-lh0iQCyh9QDqRbgpAqquyK?usp=sharing
 ---
 
 ## I. Foundational Premise
